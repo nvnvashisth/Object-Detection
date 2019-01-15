@@ -9,6 +9,7 @@ OpenCV for C++ is required for all the implementation. In this task, you’re re
 master the basic usage of OpenCV on image processing and then use the built-in class
 HOGDescriptor to detect HOG descriptors on given images.
 
+![alt text](https://github.com/nvnvashisth/Object-Detection/blob/master/Output/hog_vis.jpg)
 
 # Task 2 Object classification
 
@@ -40,6 +41,8 @@ given parameters
 result as well as the confidence (percentage of votes for that winner class)
 
 
+
+
 # Task 3 Object detection
 
 In this task, you will need to detect objects in images with random forest.
@@ -49,3 +52,11 @@ possible backgrounds you would see in the test images. You should train your Ran
 Forest with the capability to distinguish between those images from different classes. Note
 that the data you have for training may not be sufficient enough, you may need to
 augment it (add rotation, flip etc.) to generate more samples for training. 
+
+![alt text](https://github.com/nvnvashisth/Object-Detection/blob/master/Output/image.jpg)
+![alt text](https://github.com/nvnvashisth/Object-Detection/blob/master/Output/image_clone_1.jpg)
+![alt text](https://github.com/nvnvashisth/Object-Detection/blob/master/Output/image_clone_2.jpg)
+![alt text](https://github.com/nvnvashisth/Object-Detection/blob/master/Output/image_clone_3.jpg)
+![alt text](https://github.com/nvnvashisth/Object-Detection/blob/master/Output/image_clone_4.jpg)
+![alt text](https://github.com/nvnvashisth/Object-Detection/blob/master/Output/image_test.jpg)
+
